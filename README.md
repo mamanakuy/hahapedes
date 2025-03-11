@@ -34,7 +34,7 @@ HAHA Wallet BOT
 
 edit data di file accounts.joson :
 ```bash
-   accounts.json
+   nano accounts.json
    ```
 
 contoh isi file yang dibuka:
